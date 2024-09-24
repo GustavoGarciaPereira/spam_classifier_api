@@ -259,3 +259,10 @@ Este projeto está licenciado sob a **MIT License**. Veja o arquivo [LICENSE](LI
 ---
 
 **Nota**: Este documento foi ajustado para enfatizar que o projeto é uma demonstração. Sinta-se à vontade para personalizar ainda mais conforme as necessidades específicas do seu projeto ou público-alvo. -->
+
+Imgens do projeto rodando:
+
+![imagem](/img/Screenshot%20from%202024-09-24%2017-37-33.png)
+![imagem](/img/Screenshot%20from%202024-09-24%2017-38-23.png)
+![imagem](/img/Screenshot%20from%202024-09-24%2017-38-48.png)
+![imagem](/img/Screenshot%20from%202024-09-24%2017-39-03.png)
